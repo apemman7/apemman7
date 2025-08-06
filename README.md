@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Emmanouil (Manolis) Apostolakis
 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![KTH](https://img.shields.io/badge/KTH-Royal%20Institute%20of%20Technology-blue)](https://www.kth.se/)
+[![SciLifeLab](https://img.shields.io/badge/SciLifeLab-Research-green)](https://www.scilifelab.se/)
+
 🎓 MSc in Medical Biotechnology | 🎓 MEng in Chemical Engineering  
 🔬 Research Engineer at SciLifeLab / KTH Royal Institute of Technology  
 📍 Based in Stockholm, Sweden & Athens, Greece  
@@ -27,11 +33,13 @@ I enjoy solving biological problems using **data-driven approaches** and have ex
 
 ## 🧰 Tools & Technologies
 
-- 🐍 Python, 📊 R 
-- 🧬 Bioinformatics: Skyline, COPASI, PyMOL
-- 🧠 Machine Learning
-- 📊 Data Visualization & Statistical Analysis
-- 🛠️ MATLAB, SPSS, ASPEN Plus/HYSYS
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/-Python-05122A?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
+![SPSS](https://img.shields.io/badge/-SPSS-blue)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellowgreen)
 
 ---
 
@@ -62,10 +70,17 @@ I enjoy solving biological problems using **data-driven approaches** and have ex
 
 ---
 
-## 📫 Let's Connect!
+## 📈 GitHub Stats
 
-Feel free to reach out via [email](mailto:apemman7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/emmanouil-apostolakis). I'm always open to discussing cool projects, collaborations, or science in general!
+![Emmanouil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apemman7&show_icons=true&hide_title=true&hide=stars&count_private=true&theme=default)
 
 ---
 
-⭐ **Fun fact**: I once served as a **military cryptographer** and captained my football team to regional championships.
+## 📫 Let's Connect!
+
+- 📫 [Email](mailto:apemman7@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanouil-apostolakis)
+
+---
+
+⭐ **Fun fact**: I once served as a **military cryptographer** and captained my football team to two regional championships.
