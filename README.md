@@ -1,86 +1,29 @@
-# 👋 Hi, I'm Emmanouil (Manolis) Apostolakis
+Hi there, I'm Manolis 👋
+<a href="https://github.com/apemman7"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=58A6FF&width=600&lines=Proteomics+%26+bioinformatics;Human+Protein+Atlas;Data+integration+at+scale" alt="Typing animation" /> </a>
 
+<br><br>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
-[![KTH](https://img.shields.io/badge/KTH-Royal%20Institute%20of%20Technology-blue)](https://www.kth.se/)
-[![SciLifeLab](https://img.shields.io/badge/SciLifeLab-Research-green)](https://www.scilifelab.se/)
+<img src="https://skillicons.dev/icons?i=python,r,git,github,vscode&theme=dark" alt="Tools" />
+WHO AM I ?
 
-🎓 MSc in Medical Biotechnology | 🎓 MEng in Chemical Engineering  
-🔬 Research Engineer at SciLifeLab / KTH Royal Institute of Technology  
-📍 Based in Stockholm, Sweden & Athens, Greece  
-📧 apemman7@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/emmanouil-apostolakis)
+🎓 PhD student at KTH Royal Institute of Technology / SciLifeLab
+🧬 Proteomics & bioinformatics researcher by training
+⚙️ Chemical engineer by background, systems thinker
+🧠 Interested in how multi-modal data can characterize the human proteome
+🛠️ I like building tools that turn complex omics data into usable knowledge
 
----
+<a href="mailto:apemman7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></a> <a href="https://www.linkedin.com/in/emmanouil-apostolakis"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
 
-## 👨‍🔬 About Me
+WHAT I WORK ON NOW ?
 
-I'm a bioinformatician with a strong background in **proteomics, bioinformatics, and drug development**. Currently, I'm working as a Research Engineer at **SciLifeLab**, contributing to the **Human Protein Atlas** through large-scale analysis of the **human secretome and membrane proteome**.
+🧬 Human Protein Atlas (Alpha Cell Program)
+   Human secretome, membrane proteome, and the HPA Cancer Atlas
 
-I enjoy solving biological problems using **data-driven approaches** and have experience with high-throughput datasets, machine learning, and biological database integration.
+📊 Disease proteomics
+   Olink Explore 5K and SomaScan 11K data in the Human Disease Blood Atlas
 
----
+🔗 Data integration & analytics
+   Multi-modal integration to characterize proteomes in health and disease
 
-## 🧠 Research Interests
-
-- Human Proteome & Secretome
-- Protein Classification & Annotation
-- Bioinformatics & Systems Biology
-- Drug Development & Molecular Diagnostics
-- Multi-omics Integration
-
----
-
-## 🧰 Tools & Technologies
-
-## 🛠️ Tools & Technologies
-
-![Python](https://img.shields.io/badge/-Python-05122A?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
-![SPSS](https://img.shields.io/badge/-SPSS-blue)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellowgreen)
-
----
-
-## 🧪 Selected Projects
-
-- **Human Secretome & Membrane Proteome Analysis**  
-  Large-scale classification and annotation of protein-coding genes using prediction algorithms, expression profiling, and database integration.
-
-- **Longitudinal HIV Proteomics Study**  
-  MSc thesis focused on identifying biomarkers and treatment response trends using proteomic datasets from the **Human Disease Blood Atlas**.
-
-- **Drug Screening with Artificial Membranes**  
-  MEng thesis comparing different immobilized artificial membrane systems for simulating biological transport.
-
----
-
-## 🌱 Currently Learning
-
-- Single-cell RNA-seq data analysis  
-- Advanced machine learning for biological data  
-
----
-
-## 📚 Education
-
-- 🎓 MSc, Medical Biotechnology — KTH Royal Institute of Technology (2022–2024)  
-- 🎓 MEng, Chemical Engineering — NTUA, Athens (2016–2021)
-
----
-
-## 📈 GitHub Stats
-
-![Emmanouil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apemman7&show_icons=true&hide_title=true&hide=stars&count_private=true&theme=default)
-
----
-
-## 📫 Let's Connect!
-
-- 📫 [Email](mailto:apemman7@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/emmanouil-apostolakis)
-
----
-
-⭐ **Fun fact**: I once served as a **military cryptographer** and captained my football team to two regional championships.
+📚 Reproducible research
+   Open, well-documented pipelines and analysis tools
